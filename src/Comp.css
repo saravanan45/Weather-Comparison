@@ -1,0 +1,30 @@
+.header {
+  text-align: center;
+}
+.place1 {
+  margin-left: 5em;
+  padding: 12px 15px 10px 15px;
+}
+.place2 {
+  margin-left: 5em;
+  padding: 12px 15px 10px 15px;
+}
+.place1header {
+  margin-left: 12em;
+}
+.place2header {
+  margin-left: 20em;
+}
+.inputheader {
+  display: flex;
+  font-weight: bold;
+  margin-bottom: 1em;
+  color: blueviolet;
+}
+.inputfield {
+  display: flex;
+  justify-content: space-around;
+}
+.submit {
+  margin-left: 5em;
+}
