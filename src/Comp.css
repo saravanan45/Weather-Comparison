@@ -4,27 +4,20 @@
 .place1 {
   margin-left: 5em;
   padding: 12px 15px 10px 15px;
+  background-color: skyblue;
 }
 .place2 {
   margin-left: 5em;
   padding: 12px 15px 10px 15px;
-}
-.place1header {
-  margin-left: 12em;
-}
-.place2header {
-  margin-left: 20em;
-}
-.inputheader {
-  display: flex;
-  font-weight: bold;
-  margin-bottom: 1em;
-  color: blueviolet;
+  background-color: skyblue;
 }
 .inputfield {
   display: flex;
   justify-content: space-around;
+  margin-top: 5em;
 }
 .submit {
   margin-left: 5em;
+  color: green;
+  background-color: palegreen;
 }
